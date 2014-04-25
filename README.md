@@ -7,7 +7,9 @@ I believe most patents should not have been granted because these ideas are obvi
 All the ideas that I want to share with the world I'll keep in this repository. where the each ideas is put into its own directory.
 
 (C) Bas de Bruijn
+
 bdebruijn at luminize dot nl
 
 licence: CERN OHL v1.2
+
 please visit http://www.ohwr.org
